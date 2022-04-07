@@ -1,0 +1,27 @@
+.recommended {
+  text-align: center;
+}
+
+.carrousel-container {
+  overflow-x: scroll;
+}
+
+.carrousel {
+  border: solid green 1px;
+  display: flex;
+  flex-flow: nowrap;
+  width: 51%;
+}
+
+.reCard {
+  flex-direction: row;
+  flex-shrink: 0;
+  position: relative;
+  scroll-snap-align: initial;
+  scroll-snap-type: x mandatory;
+  transition: transform 0.5s;
+}
+
+.reCard-img {
+  width: 100%;
+}

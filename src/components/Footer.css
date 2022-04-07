@@ -1,0 +1,15 @@
+.footer {
+  background-color: white;
+  border-radius: 10px;
+  bottom: 0;
+  margin-left: 45vw;
+  padding: 2px;
+  position: fixed;
+}
+
+@media screen and ( max-width : 500px ) {
+
+  .footer {
+    margin-left: 35vw;
+  }
+}

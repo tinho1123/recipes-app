@@ -1,0 +1,54 @@
+.containerFoodDetails {
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80vw;
+}
+
+.imgFoods {
+  border-radius: 50px;
+  margin-bottom: 30px;
+  padding-top: 30px;
+}
+
+.foodDetailsdescription {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50vh;
+}
+
+.share-btn {
+  border-radius: 100px;
+  height: 37px;
+  margin: 5px;
+  width: 37px;
+}
+
+.favorite-btn {
+  border-radius: 100px;
+  height: 37px;
+  width: 37px;
+}
+
+.instructions {
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.ingredientsList {
+  margin-left: 5px;
+}
+
+.instructionsText {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.finish-recipe-btn {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

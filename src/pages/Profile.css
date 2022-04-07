@@ -1,0 +1,15 @@
+.containerProfile {
+  background-color: white;
+  padding: 20px;
+}
+
+.caixa-de-ações {
+  display: flex;
+  justify-content: space-around;
+  max-width: 320px;
+}
+
+.Foto-perfil {
+  display: flex;
+  justify-content: center;
+}

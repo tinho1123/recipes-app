@@ -1,0 +1,10 @@
+.containerFavDoneRecipes {
+  background-color: white;
+  padding: 10px;
+}
+
+.buttonFilterFavDoneRecipes {
+  display: flex;
+  justify-content: space-around;
+  max-width: 200px;
+}

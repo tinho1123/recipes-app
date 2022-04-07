@@ -1,0 +1,26 @@
+.containerFoodCategorieFilter {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 10px;
+  max-width: 350px;
+}
+
+.button-category-filter {
+  padding: 2px;
+}
+
+.FoodAllCategory {
+  margin-left: 10px;
+  padding: 2px;
+}
+
+@media screen and ( max-width : 500px ) {
+
+  .containerFoodCategorieFilter {
+    margin-left: 1px;
+  }
+
+  .button-button-category-filtercategory-filter {
+    margin-bottom: 10px;
+  }
+}

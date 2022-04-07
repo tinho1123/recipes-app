@@ -1,0 +1,33 @@
+.containerSearchFoodBar {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 20px;
+  margin-top: 10px;
+}
+
+.search {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.radiotype {
+  display: flex;
+  justify-content: space-evenly;
+  width: 300px;
+}
+
+.ingredientRadio {
+  margin-left: 10px;
+}
+
+.nameRadio {
+  margin-left: 10px;
+}
+
+.letterRadio {
+  margin-left: 10px;
+}
+
+.search-btn {
+  border-radius: 10px;
+}
